@@ -1,0 +1,10 @@
+(librepcb_package_category 2da719e9-d7e0-4c7e-b0dd-fd04d8806f97
+ (name "Molex")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2018-11-25T21:07:36Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
