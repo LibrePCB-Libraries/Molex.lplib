@@ -1,6 +1,6 @@
 (librepcb_library e3ce49bf-e959-4092-8b48-aeead756f8d1
  (name "Molex")
- (description "Connectors, sockets and more (inofficial).")
+ (description "Connectors, sockets and more (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.0.2")
