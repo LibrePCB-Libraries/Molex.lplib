@@ -3,7 +3,7 @@
  (description "Connectors, sockets and more (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.0.2")
+ (version "0.0.3")
  (created 2016-09-28T21:48:03Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Molex.lplib")
